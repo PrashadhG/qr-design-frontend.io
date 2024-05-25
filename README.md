@@ -27,3 +27,6 @@ This project is a simple and responsive QR code component built as part of a cha
 
 - **Challenge by** [Frontend Mentor](https://www.frontendmentor.io?ref=challenge).
 - **Coded by** [Prashadh].
+
+## Link 
+ To vist the page [click here](https://qr-design-frontend-io.vercel.app/)
